@@ -1,8 +1,5 @@
 package com.example.administrator.xmlparsedemo;
 
-/**
- * Created by Jay on 2015/9/8 0008.
- */
 public class Person {
     private int id;
     private String name;
